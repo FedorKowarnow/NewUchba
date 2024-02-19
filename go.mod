@@ -1,5 +1,3 @@
-module main
+module github.com/FedorKowarnow/NewUchba
 
 go 1.21.4
-
-require github.com/FedorKowarnow/NewUchba
